@@ -1,2 +1,5 @@
 # hello-world
-a short test
+
+Hi Humans!
+
+Hubot here, I like Node
